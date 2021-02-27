@@ -1,0 +1,17 @@
+.reel-section {
+  grid-area: reel;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-items: center;
+  background-color: $reel-color;
+  padding: 10px 0;
+  border: 2px solid $border-color;
+  border-radius: 15px;
+
+  .reel-box {
+    display: inline-block;
+    background-size: 150px;
+    width: 150px;
+    height: 150px;
+  }
+}
