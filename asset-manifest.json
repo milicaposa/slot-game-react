@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/slot-game-react/static/css/main.75f15150.chunk.css",
+    "main.js": "/slot-game-react/static/js/main.d09d4f9f.chunk.js",
+    "main.js.map": "/slot-game-react/static/js/main.d09d4f9f.chunk.js.map",
+    "runtime-main.js": "/slot-game-react/static/js/runtime-main.15a5bbc5.js",
+    "runtime-main.js.map": "/slot-game-react/static/js/runtime-main.15a5bbc5.js.map",
+    "static/js/2.4b63f800.chunk.js": "/slot-game-react/static/js/2.4b63f800.chunk.js",
+    "static/js/2.4b63f800.chunk.js.map": "/slot-game-react/static/js/2.4b63f800.chunk.js.map",
+    "index.html": "/slot-game-react/index.html",
+    "static/css/main.75f15150.chunk.css.map": "/slot-game-react/static/css/main.75f15150.chunk.css.map",
+    "static/js/2.4b63f800.chunk.js.LICENSE.txt": "/slot-game-react/static/js/2.4b63f800.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/slot-game-react/static/media/watermelon.34170057.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15a5bbc5.js",
+    "static/js/2.4b63f800.chunk.js",
+    "static/css/main.75f15150.chunk.css",
+    "static/js/main.d09d4f9f.chunk.js"
+  ]
+}
